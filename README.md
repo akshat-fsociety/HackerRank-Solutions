@@ -1,4 +1,4 @@
-# Hackerrank
+# HackerRank
 # Solution for Hackerrank Questions
 Ever stuck in any problem?
 Don't worry this repo is for you!!
