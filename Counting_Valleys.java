@@ -6,10 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
-
-    // Complete the countingValleys function below.
-    
+public class Solution {    
        
         public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
