@@ -9,8 +9,6 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    // Complete the compareTriplets function below.
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         int A = 0, B = 0;
 for (int i = 0; i < a.size(); i++){
