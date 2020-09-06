@@ -57,7 +57,6 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the isBalanced function below.
     static String isBalanced(String s) {
         Stack<Character>st = new Stack<>();
         int i,l;
