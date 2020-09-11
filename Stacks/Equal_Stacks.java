@@ -36,6 +36,7 @@ Observe that the three stacks are not all the same height. To make all stacks of
 
 modified stacks*/
 
+
 import java.io.*;
 import java.math.*;
 import java.text.*;
