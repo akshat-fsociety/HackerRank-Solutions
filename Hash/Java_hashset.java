@@ -1,6 +1,4 @@
 /*https://www.hackerrank.com/challenges/java-hashset/problem*/
-
-
 HashSet<String> pairs = new HashSet<String>(t);
 
     for(int i = 0; i < t; i++)
